@@ -1,3 +1,15 @@
+"""
+template.py
+
+This script is used to create the required folder structure and empty files for a project.
+
+Functionality:
+- Defines a list of essential files and directories for the project.
+- Ensures that all directories exist before creating files.
+- Creates empty files if they do not exist or are empty.
+- Prints a message if a file already exists and is not empty.
+"""
+
 import os
 from pathlib import Path
 
