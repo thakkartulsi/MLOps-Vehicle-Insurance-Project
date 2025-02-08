@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 
 notebook/mongoDB_demo.ipynb
+artifact/
